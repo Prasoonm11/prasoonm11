@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=0f0c29"/>
+<img src="https://komarev.com/ghpvc/?username=prasoonm11&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/github/followers/prasoonm11?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=0f0c29"/>
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00F0FF?style=for-the-badge&labelColor=0f0c29"/>
 
 </div>
@@ -21,7 +21,7 @@ identity:
   name: "Prasoon Mathur"
   role: "Computer Science Student / Full Stack Developer / GenAi Developer"
   education: "B.Tech Computer Science"
-  location: "Jaipur Rajasthan India "
+  location: "Jaipur, Rajasthan, India"
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -77,16 +77,7 @@ identity:
 <!-- PROJECTS:START -->
 <div align="center">
 
-| Project | Description | Language | Stars |
-|:---|:---|:---:|:---:|
-| 📦 [**Multi-Gesture-Recognition-for-Stroke-Rehabilitation-Using-sEMG-Signals**](https://github.com/Prasoonm11/Multi-Gesture-Recognition-for-Stroke-Rehabilitation-Using-sEMG-Signals) | Summer Internship Project at MNIT Jaipur -2025 | Jupyter Notebook | ⭐ 0 |
-| 🟨 [**prasoonm11**](https://github.com/Prasoonm11/prasoonm11) | No description provided. | JavaScript | ⭐ 0 |
-| 🔷 [**portfolio**](https://github.com/Prasoonm11/portfolio) | No description provided. | TypeScript | ⭐ 0 |
-| 🟨 [**AI-Interview-Platform**](https://github.com/Prasoonm11/AI-Interview-Platform) | No description provided. | JavaScript | ⭐ 0 |
-| 🔷 [**AARAAIDDT**](https://github.com/Prasoonm11/AARAAIDDT) | Automatic Driver Recognition & AI Powered Driver Digital Twin | TypeScript | ⭐ 0 |
-| 🔷 [**BankVerse-Ai**](https://github.com/Prasoonm11/BankVerse-Ai) | No description provided. | TypeScript | ⭐ 0 |
-
-<sub>🔄 Auto-updated from GitHub on 2026-08-01</sub>
+_This table refreshes automatically once the "Update Featured Projects" GitHub Action runs — trigger it manually from the Actions tab to populate it for the first time._
 
 </div>
 <!-- PROJECTS:END -->
@@ -118,11 +109,10 @@ identity:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-
 <div align="center">
 
 ### 💬 `system.log`
-> Prasoon Mathur"*
+>  Prasoon Mathur
 
 <br/>
 
