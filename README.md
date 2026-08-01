@@ -77,16 +77,7 @@ identity:
 <!-- PROJECTS:START -->
 <div align="center">
 
-| Project | Description | Language | Stars |
-|:---|:---|:---:|:---:|
-| 📦 [**Multi-Gesture-Recognition-for-Stroke-Rehabilitation-Using-sEMG-Signals**](https://github.com/Prasoonm11/Multi-Gesture-Recognition-for-Stroke-Rehabilitation-Using-sEMG-Signals) | Summer Internship Project at MNIT Jaipur -2025 | Jupyter Notebook | ⭐ 0 |
-| 🟨 [**prasoonm11**](https://github.com/Prasoonm11/prasoonm11) | No description provided. | JavaScript | ⭐ 0 |
-| 🔷 [**portfolio**](https://github.com/Prasoonm11/portfolio) | No description provided. | TypeScript | ⭐ 0 |
-| 🟨 [**AI-Interview-Platform**](https://github.com/Prasoonm11/AI-Interview-Platform) | No description provided. | JavaScript | ⭐ 0 |
-| 🔷 [**AARAAIDDT**](https://github.com/Prasoonm11/AARAAIDDT) | Automatic Driver Recognition & AI Powered Driver Digital Twin | TypeScript | ⭐ 0 |
-| 🔷 [**BankVerse-Ai**](https://github.com/Prasoonm11/BankVerse-Ai) | No description provided. | TypeScript | ⭐ 0 |
-
-<sub>🔄 Auto-updated from GitHub on 2026-08-01</sub>
+_This table refreshes automatically once the "Update Featured Projects" GitHub Action runs — trigger it manually from the Actions tab to populate it for the first time._
 
 </div>
 <!-- PROJECTS:END -->
@@ -108,11 +99,6 @@ identity:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasoonm11&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=00F0FF&line=8A2BE2&point=ffffff"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy-green-two.vercel.app/?username=prasoonm11&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
-</p>
-
-<!-- Snake animation: requires the "snk" GitHub Action set up in this repo (see setup note in chat/README notes). Will show broken until that Action has run once. -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/prasoonm11/prasoonm11/output/github-contribution-grid-snake-dark.svg"/>
 </div>
