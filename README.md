@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=PRASOON%20MATHUR&fontSize=55&fontColor=00F0FF&fontAlignY=38&animation=fadeIn&desc=%3C%20Full%20Stack%20Developer%20%7C%20Android%20Dev%20%7C%20Competitive%20Programmer%20%3E&descAlignY=58&descSize=18&descColor=8A8AFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=PRASOON%20MATHUR&fontSize=55&fontColor=00F0FF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Android%20Dev%20•%20Competitive%20Programmer&descAlignY=58&descSize=18&descColor=8A8AFF"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&random=false&width=700&height=60&lines=%3E+booting_developer.exe...;%3E+compiling_ideas_into_code();%3E+status%3A+ONLINE+%F0%9F%9F%A2;%3E+building+the+future%2C+one+commit+at+a+time"/>
 
@@ -77,16 +77,7 @@ identity:
 <!-- PROJECTS:START -->
 <div align="center">
 
-| Project | Description | Language | Stars |
-|:---|:---|:---:|:---:|
-| 📦 [**Multi-Gesture-Recognition-for-Stroke-Rehabilitation-Using-sEMG-Signals**](https://github.com/Prasoonm11/Multi-Gesture-Recognition-for-Stroke-Rehabilitation-Using-sEMG-Signals) | Summer Internship Project at MNIT Jaipur -2025 | Jupyter Notebook | ⭐ 0 |
-| 🟨 [**prasoonm11**](https://github.com/Prasoonm11/prasoonm11) | No description provided. | JavaScript | ⭐ 0 |
-| 🔷 [**portfolio**](https://github.com/Prasoonm11/portfolio) | No description provided. | TypeScript | ⭐ 0 |
-| 🟨 [**AI-Interview-Platform**](https://github.com/Prasoonm11/AI-Interview-Platform) | No description provided. | JavaScript | ⭐ 0 |
-| 🔷 [**AARAAIDDT**](https://github.com/Prasoonm11/AARAAIDDT) | Automatic Driver Recognition & AI Powered Driver Digital Twin | TypeScript | ⭐ 0 |
-| 🔷 [**BankVerse-Ai**](https://github.com/Prasoonm11/BankVerse-Ai) | No description provided. | TypeScript | ⭐ 0 |
-
-<sub>🔄 Auto-updated from GitHub on 2026-08-01</sub>
+_This table refreshes automatically once the "Update Featured Projects" GitHub Action runs — trigger it manually from the Actions tab to populate it for the first time._
 
 </div>
 <!-- PROJECTS:END -->
@@ -97,7 +88,7 @@ identity:
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasoonm11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasoonm11&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=prasoonm11&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF"/>
 </p>
 
 <p align="center">
@@ -112,6 +103,7 @@ identity:
 <img src="https://github-profile-trophy.vercel.app/?username=prasoonm11&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
 </p>
 
+<!-- Snake animation: requires the "snk" GitHub Action set up in this repo (see setup note in chat/README notes). Will show broken until that Action has run once. -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/prasoonm11/prasoonm11/output/github-contribution-grid-snake-dark.svg"/>
 </div>
