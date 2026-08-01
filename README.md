@@ -79,9 +79,14 @@ identity:
 
 | Project | Description | Language | Stars |
 |:---|:---|:---:|:---:|
-| 🟨 [**example-repo**](https://github.com/YOUR_USERNAME/example-repo) | This table refreshes automatically — run the Action once to populate it. | JavaScript | ⭐ 0 |
+| 📦 [**Multi-Gesture-Recognition-for-Stroke-Rehabilitation-Using-sEMG-Signals**](https://github.com/Prasoonm11/Multi-Gesture-Recognition-for-Stroke-Rehabilitation-Using-sEMG-Signals) | Summer Internship Project at MNIT Jaipur -2025 | Jupyter Notebook | ⭐ 0 |
+| 🟨 [**prasoonm11**](https://github.com/Prasoonm11/prasoonm11) | No description provided. | JavaScript | ⭐ 0 |
+| 🔷 [**portfolio**](https://github.com/Prasoonm11/portfolio) | No description provided. | TypeScript | ⭐ 0 |
+| 🟨 [**AI-Interview-Platform**](https://github.com/Prasoonm11/AI-Interview-Platform) | No description provided. | JavaScript | ⭐ 0 |
+| 🔷 [**AARAAIDDT**](https://github.com/Prasoonm11/AARAAIDDT) | Automatic Driver Recognition & AI Powered Driver Digital Twin | TypeScript | ⭐ 0 |
+| 🔷 [**BankVerse-Ai**](https://github.com/Prasoonm11/BankVerse-Ai) | No description provided. | TypeScript | ⭐ 0 |
 
-<sub>🔄 Auto-updated from GitHub</sub>
+<sub>🔄 Auto-updated from GitHub on 2026-08-01</sub>
 
 </div>
 <!-- PROJECTS:END -->
