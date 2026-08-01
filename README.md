@@ -77,16 +77,7 @@ identity:
 <!-- PROJECTS:START -->
 <div align="center">
 
-| Project | Description | Language | Stars |
-|:---|:---|:---:|:---:|
-| 📦 [**Multi-Gesture-Recognition-for-Stroke-Rehabilitation-Using-sEMG-Signals**](https://github.com/Prasoonm11/Multi-Gesture-Recognition-for-Stroke-Rehabilitation-Using-sEMG-Signals) | Summer Internship Project at MNIT Jaipur -2025 | Jupyter Notebook | ⭐ 0 |
-| 🟨 [**prasoonm11**](https://github.com/Prasoonm11/prasoonm11) | No description provided. | JavaScript | ⭐ 0 |
-| 🔷 [**portfolio**](https://github.com/Prasoonm11/portfolio) | No description provided. | TypeScript | ⭐ 0 |
-| 🟨 [**AI-Interview-Platform**](https://github.com/Prasoonm11/AI-Interview-Platform) | No description provided. | JavaScript | ⭐ 0 |
-| 🔷 [**AARAAIDDT**](https://github.com/Prasoonm11/AARAAIDDT) | Automatic Driver Recognition & AI Powered Driver Digital Twin | TypeScript | ⭐ 0 |
-| 🔷 [**BankVerse-Ai**](https://github.com/Prasoonm11/BankVerse-Ai) | No description provided. | TypeScript | ⭐ 0 |
-
-<sub>🔄 Auto-updated from GitHub on 2026-08-01</sub>
+_This table refreshes automatically once the "Update Featured Projects" GitHub Action runs — trigger it manually from the Actions tab to populate it for the first time._
 
 </div>
 <!-- PROJECTS:END -->
@@ -96,12 +87,12 @@ identity:
 ## 📊 `> analytics --dashboard`
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasoonm11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats-phi-five-35.vercel.app/api?username=prasoonm11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=prasoonm11&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF"/>
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonm11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&text_color=c9d1d9"/>
+<img width="60%" src="https://github-readme-stats-phi-five-35.vercel.app/api/top-langs/?username=prasoonm11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
@@ -109,7 +100,7 @@ identity:
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prasoonm11&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy-green-two.vercel.app/?username=prasoonm11&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
 </p>
 
 <!-- Snake animation: requires the "snk" GitHub Action set up in this repo (see setup note in chat/README notes). Will show broken until that Action has run once. -->
@@ -122,7 +113,7 @@ identity:
 <div align="center">
 
 ### 💬 `system.log`
->  Prasoon Mathur
+> Prasoon Mathur
 
 <br/>
 
