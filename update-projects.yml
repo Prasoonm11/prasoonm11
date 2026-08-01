@@ -24,7 +24,7 @@ jobs:
 
       - name: Fetch top repos and update README
         env:
-          GITHUB_USERNAME: YOUR_USERNAME
+          GITHUB_USERNAME: prasoonm11
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-projects.js
 
